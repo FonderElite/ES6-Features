@@ -1,7 +1,7 @@
-# 🧑‍🎤Speech-RecognitionJS
+#  👾ES6
 ***Variables to Promises in EcmaScript***.
 
-# 🧩Technologies
+# 🧑🏻‍🔧Technologies
 * Visual Studio Code
 * Javascript w/ ES6
 * Google
@@ -15,19 +15,17 @@
 - default parameters
 - object literals
 - forEach, map and filter
-<img src="https://clipart.coolclips.com/480/vectors/tf05170/CoolClips_vc011684.png" style="width:5%;height:10%;">
+<img src="https://th.bing.com/th/id/OIP.fqf1GL3gsxmaRZkmB47O9wHaEK?pid=Api&rs=1" style="width:5%;height:10%;">
 
 #  🏆Advantages
-* Fast 
 * Free
 * No Copyright 
 
 #  🦾Base
-* Based off of A.I. techs
+* Dev Ed From Youtube
 
 # 🧑‍🔧 Features to be added:
-- Reply to certain words
-- Image Recognition(50% probability)
+- Upcoming Es6 Features of even New Ecma-Script!
 
 🤳 Socials
 * Github: https://github.com/FonderElite
