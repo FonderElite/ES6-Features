@@ -6,7 +6,7 @@
 * Javascript w/ ES6
 * Google
 
-# 🎤Features
+#  🤖Features
 - let and const variables
 - arrow functions
 - concatination
