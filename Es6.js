@@ -118,7 +118,7 @@ promise.then(data =>{
     console.log(data);
 });
 */
-
+//=================================================================================================================================================================
 /*Code1
 const boss = (Demon) =>{
     const player = {
@@ -167,4 +167,45 @@ alert(`stopping building on ${stop.stop1} and ${stop.stop2}`);
 }
 const builder1 = new House("Moderna-X");
 console.log(builder1.stop())
+*/
+/*Code3
+
+
+class House {
+constructor(roof,floor){
+this.roof = roof;
+this.floor = floor;
+}
+build(){
+let time = new Date();
+console.log(`Building still on date: ${time}`);
+}
+stop(){
+let stop = {
+stop1:"roof",
+stop2:"floor"
+}
+alert(`stopping building on ${stop.stop1} and ${stop.stop2}`);
+
+}
+}
+class Mansion extends House{
+schedule(){
+  let workSched = {
+eat:"2 hours",
+sleep:"5 hours",
+cry:"24 hours"
+}
+console.log(`Time schedule for eat is: ${workSched.sleep}`);
+}
+
+}
+let name = 'john';
+const builder1 = new House(name);
+const builder2 = new Mansion("MeMe");
+console.log(builder1.build());
+console.log(builder2.schedule());
+
+//console.log(builder1.stop())
+
 */
