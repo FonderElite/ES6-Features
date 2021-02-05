@@ -143,3 +143,28 @@ console.log(cities);
 }
 func("20,000,000");
 */
+
+
+/*Code2
+
+class House {
+constructor(roof,floor){
+this.roof = roof;
+this.floor = floor;
+}
+build(){
+let time = new Date();
+console.log(`Current time: ${time}`);
+}
+stop(){
+let stop = {
+stop1:"roof",
+stop2:"floor"
+}
+alert(`stopping building on ${stop.stop1} and ${stop.stop2}`);
+
+}
+}
+const builder1 = new House("Moderna-X");
+console.log(builder1.stop())
+*/
